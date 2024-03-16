@@ -28,8 +28,5 @@ public class CockExample1 {
                 "возраст: " + cock3.age +
                 ", живой: " + cock3.isAlive +
                 ", вес: " + cock3.weight);
-
-
-
     }
 }
